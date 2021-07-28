@@ -1,0 +1,2 @@
+principle amount : 1000
+interst : 18%
